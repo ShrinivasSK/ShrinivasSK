@@ -1,10 +1,12 @@
 ### Hi there, I am Shrinivas! 👋
 
-3rd year CSE undergraduate student @ IIT KGP.
+4th year year CSE undergraduate student @ IIT KGP.
 - :star_struck: I love creating stuff.
 - 🎯 I am currently working in SLAM and NLP
 - :telescope: I am interested in learning new stuff about DL, especially NLP.
 - :heart_eyes: I enjoy listening to music :notes: and reading novels :books:
+
+More about me on my [personal website](https://shrinivassk.github.io/)
 
 ## 👨🏻‍💻  Languages & Tools 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
