@@ -1,9 +1,9 @@
 ### Hi there, I am Shrinivas! 👋
 
-4th year year CSE undergraduate student @ IIT KGP.
+Computer Science Graduate from IIT Kharagpur. Currently working as an MLE at Abacus AI.
 - :star_struck: I love creating stuff.
-- 🎯 I am currently working in SLAM and NLP
-- :telescope: I am interested in learning new stuff about DL, especially NLP.
+- 🎯 I am currently working at the intersection of AI and SDE
+- :telescope: I am interested in learning about LLM Agents.
 - :heart_eyes: I enjoy listening to music :notes: and reading novels :books:
 
 More about me on my [personal website](https://shrinivassk.github.io/)
